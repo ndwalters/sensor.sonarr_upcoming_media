@@ -8,7 +8,7 @@ This component does not require, nor conflict with, the default Sonarr component
 
 ### With Thanks to:
 [maykar](https://github.com/maykar)</br>
-[bacco007](https://community.home-assistant.io/u/bacco007)
+[bacco007](https://github.com/bacco007)
 </br></br>
 
 ## Installation:
