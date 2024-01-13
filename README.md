@@ -1,19 +1,15 @@
-# Sonarr Upcoming Media Component
+# Sonarr v4 Upcoming Media Component
+
+This has been forked from the original [sensor.sonarr_upcoming_media](https://github.com/custom-components/sensor.sonarr_upcoming_media) by [maykar](https://github.com/maykar) to work with Sonarr v4 API changes. If using Sonarr V2 or v2, please stick to the original.
 
 Home Assistant component to feed [Upcoming Media Card](https://github.com/custom-cards/upcoming-media-card) with
 Sonarr's upcoming releases.</br>
-This component does not require, nor conflict with, the default Sonarr component.</br></br>
-### Issues
-Read through these two resources before posting issues to GitHub or the forums.
-* [troubleshooting guide](https://github.com/custom-cards/upcoming-media-card/blob/master/troubleshooting.md)
-* [@thomasloven's lovelace guide](https://github.com/thomasloven/hass-config/wiki/Lovelace-Plugins).
+This component does not require, nor conflict with, the default Sonarr component.</br>
 
-
-## Supporting Development
-- :coffee:&nbsp;&nbsp;[Buy me a coffee](https://www.buymeacoffee.com/FgwNR2l)
-- :1st_place_medal:&nbsp;&nbsp;[Tip some Crypto](https://github.com/sponsors/maykar)
-- :heart:&nbsp;&nbsp;[Sponsor me on GitHub](https://github.com/sponsors/maykar)
-  <br><br>
+### With Thanks to:
+[maykar](https://github.com/maykar)</br>
+[bacco007](https://community.home-assistant.io/u/bacco007)
+</br></br>
 
 ## Installation:
 
