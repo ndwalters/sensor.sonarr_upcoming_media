@@ -2,19 +2,30 @@
 
 This has been forked from the original [sensor.sonarr_upcoming_media](https://github.com/custom-components/sensor.sonarr_upcoming_media) by [maykar](https://github.com/maykar) to work with Sonarr v4 API changes. If using Sonarr V2 or v2, please stick to the original.
 
-Home Assistant component to feed [Upcoming Media Card](https://github.com/custom-cards/upcoming-media-card) with
+Home Assistant component to feed [Upcoming Media Card](https://github.com/ndwalters/upcoming-media-card) with
 Sonarr's upcoming releases.</br>
 This component does not require, nor conflict with, the default Sonarr component.</br>
 
 ### With Thanks to:
 [maykar](https://github.com/maykar)</br>
 [bacco007](https://github.com/bacco007)
-</br></br>
+</br>
 
-## Installation:
 
-1. Install this component by copying [these files](https://github.com/custom-components/sensor.sonarr_upcoming_media/tree/master/custom_components/sonarr_upcoming_media) to `/custom_components/sonarr_upcoming_media/`.
-2. Install the card: [Upcoming Media Card](https://github.com/custom-cards/upcoming-media-card)
+## Installation in HACS (Custom Repositories):
+
+1. Select HACS in Home Assistant
+2. Go to any of the sections (integrations, frontend, automation).
+3. Click on the 3 dots in the top right corner.
+4. Select "Custom repositories"
+5. Add the URL "https://github.com/ndwalters/sensor.sonarr_upcoming_media"
+6. Select the category "integrations".
+7. Click the "ADD" button.
+
+**You will need to restart after installation for the component to start working.**## Manual Installation:
+
+1. Install this component by copying [these files](https://github.com/ndwalters/sensor.sonarr_upcoming_media/tree/master/custom_components/sonarr_upcoming_media) to `/custom_components/sonarr_upcoming_media/`.
+2. Install the card: [Upcoming Media Card](https://github.com/ndwalters/upcoming-media-card)
 3. Add the code to your `configuration.yaml` using the config options below.
 4. Add the code for the card to your `ui-lovelace.yaml`. 
 5. **You will need to restart after installation for the component to start working.**
