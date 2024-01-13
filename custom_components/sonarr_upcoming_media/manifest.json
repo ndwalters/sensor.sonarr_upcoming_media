@@ -4,8 +4,6 @@
     "version": "0.2.7",
     "documentation": "https://github.com/ndwalters/sensor.sonarr_upcoming_media",
     "dependencies": [],
-    "codeowners": [
-      "@maykar",
-      "@ndwalters"
+    "codeowners": ["@ndwalters"],
     "requirements": []
   }
